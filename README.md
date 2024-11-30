@@ -45,94 +45,87 @@
 <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
-  🧔 Moi c'est <bold>Stan</bold>. 22 ans, barbu et un amateur de code et de 🍺.<br/>
+  🧔 Moi c'est <bold>Stan</bold>. 25 ans, barbu et un amateur de code et de 🍺.<br/>
   💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
   💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
   🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 4 ans
+  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
 </p>
 <p>
   🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
 </p><br/>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <details>
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-306-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C713%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-195-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 113 Contributions in the Year 2021
- > 
 > 📦 2.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 33 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 41 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-🌆 Daytime    65 commits     ██████████░░░░░░░░░░░░░░░   41.67% 
-🌃 Evening    32 commits     █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-🌙 Night      39 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
+🌞 Morning                2421 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+🌆 Daytime                15874 commits       ████████████░░░░░░░░░░░░░   49.38 % 
+🌃 Evening                11416 commits       █████████░░░░░░░░░░░░░░░░   35.51 % 
+🌙 Night                  2438 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-Tuesday      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Wednesday    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-Thursday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-Friday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
-Saturday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-Sunday       31 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87%
-
+Monday                   5512 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Tuesday                  5650 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Wednesday                6733 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Thursday                 5114 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Friday                   4335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Saturday                 2404 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Sunday                   2401 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    27 hrs 16 mins      █████████████████░░░░░░░░   67.98% 
-JavaScript               8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13% 
-Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-SCSS                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.63% 
-HTML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
+TypeScript               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Browser                  27 hrs 6 mins       █████████████████░░░░░░░░   67.56% 
-VS Code                  12 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   32.14% 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 43 mins      ████████████████░░░░░░░░░   64.13% 
-Linux                    12 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   32.27% 
-Mac                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
-
+WSL                      1 min               █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in PHP** 
+**I Mostly Code in JavaScript** 
 
 ```text
-PHP                      12 repos            █████████░░░░░░░░░░░░░░░░   38.71% 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
-
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
- Last Updated on 06/10/2021
+
+ Last Updated on 30/11/2024 00:06:16 UTC
 <!--END_SECTION:waka-->
 </details>
